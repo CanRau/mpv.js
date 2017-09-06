@@ -6,7 +6,6 @@
 "use strict";
 
 const path = require("path");
-const React = require("react");
 
 /**
  * The MIME type associated with mpv.js plugin.
